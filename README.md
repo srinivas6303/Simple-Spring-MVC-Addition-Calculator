@@ -49,5 +49,6 @@ mvn spring-boot:run<br>
 ### To Do
 - Optionally, add support for other mathematical operations in the future.
 - Improve user interface with advanced CSS and layout.
-![Screenshot 2025-01-17 185558](https://github.com/user-attachments/assets/bd1b132b-fcdd-4bc9-bb29-54bba2879771)
 ![Screenshot 2025-01-17 185540](https://github.com/user-attachments/assets/0873b35e-9084-47ce-9573-dc1da4e8b78f)
+![Screenshot 2025-01-17 185558](https://github.com/user-attachments/assets/bd1b132b-fcdd-4bc9-bb29-54bba2879771)
+
